@@ -5,5 +5,5 @@
 ## 실행
 
 ```bash
-curl -s https://raw.githubusercontent.com/miridih-jwpark02/migrate/main/setup.sh | bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/miridih-jwpark02/migrate/main/setup.sh)"
 ```
