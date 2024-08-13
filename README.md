@@ -5,5 +5,5 @@
 ## 실행
 
 ```bash
-curl -s https://raw.githubusercontent.com/jwpark02-miridih/migrate/main/setup.sh | bash
+curl -s https://raw.githubusercontent.com/miridih-jwpark02/migrate/main/setup.sh | bash
 ```
