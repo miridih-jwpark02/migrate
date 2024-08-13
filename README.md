@@ -5,5 +5,9 @@
 ## 실행
 
 ```bash
+# install brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# install migration tool
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/miridih-jwpark02/migrate/main/setup.sh)"
 ```
